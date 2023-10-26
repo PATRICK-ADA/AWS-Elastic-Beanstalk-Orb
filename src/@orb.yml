@@ -1,0 +1,9 @@
+version: 2.1
+
+description: >
+  Deploy and scale web applications and services via AWS Elastic Beanstalk with CircleCI.
+
+display:
+  home_url: https://aws.amazon.com/elasticbeanstalk/
+  source_url: https://github.com/CircleCI-Public/aws-elastic-beanstalk-orb
+
